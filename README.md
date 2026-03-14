@@ -13,7 +13,7 @@ for startups, agencies and small businesses.
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Laravel, Django
 - Database: MySQL
-- Tools: Git, GitHub, Vercel
+- Tools: Git, GitHub, Vercel, supabase, etc
 
 ### Featured Projects
 - **NeoPixel** – Startup landing page  
