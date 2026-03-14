@@ -11,7 +11,7 @@ for startups, agencies and small businesses.
 
 ### Tech Stack
 - Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Laravel, Django
+- Backend: Node.js, Laravel
 - Database: MySQL
 - Tools: Git, GitHub, Vercel, supabase, etc
 
