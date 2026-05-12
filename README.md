@@ -16,10 +16,13 @@ for startups, agencies and small businesses.
 - Tools: Git, GitHub, Vercel, supabase, etc
 
 ### Featured Projects
-- **NeoPixel** – Startup landing page  
+- **NeoPixel** – Startup landing page.
    https://neopixel-v1.vercel.app
 
 - **PiTravel** – Agency website for international mobility  
+   https://www.nateivalearn.com
+
+- **NateivaLearn** – Learn the easier way, get paid, and share knowledge.
    https://pitravel.vercel.app
 
 ### Contact
