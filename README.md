@@ -19,11 +19,11 @@ for startups, agencies and small businesses.
 - **NeoPixel** – Startup landing page.
    https://neopixel-v1.vercel.app
 
-- **PiTravel** – Agency website for international mobility  
-   https://www.nateivalearn.com
+- **PiTravel** – Agency website for international mobility
+   https://pitravel.vercel.app
 
 - **NateivaLearn** – Learn the easier way, get paid, and share knowledge.
-   https://pitravel.vercel.app
+   https://www.nateivalearn.com
 
 ### Contact
 - Email: ivanasegning@gmail.com
